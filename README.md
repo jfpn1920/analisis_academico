@@ -7,7 +7,7 @@ Este proyecto consiste en desarrollar un sistema en Python para analizar datos a
 
 El programa permite calcular automáticamente el promedio de cada estudiante y clasificar su desempeño en categorías como `Excelente`, `Bueno`, `Regular` o `Insuficiente`. Esto facilita la evaluación rápida y organizada del rendimiento académico sin necesidad de realizar cálculos manuales.
 
-El sistema funciona mediante un menú interactivo en consola que permite al usuario consultar los análisis de todos los estudiantes registrados en cualquier momento. Además, ofrece una visualización clara del promedio y la categoría de cada estudiante, facilitando la identificación rápida de quienes tienen un desempeño destacado o necesitan mejorar.
+El sistema funciona mediante un menú interactivo en consola que permite al usuario consultar los análisis de todos los estudiantes registrados en cualquier momento. Además, ofrece una visualización clara del promedio y la categoría de cada estudiante, facilitando la identificación rápida de quienes tienen un desempeño.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
